@@ -34,6 +34,7 @@ if qs.lower() == 'y':
             hiep_si -= damme
             if hiep_si <= 0 :
                 print ( "hiệp sĩ đã xanh cỏ ☠️")
+              print("hello thang nhoc")
          
 
        
